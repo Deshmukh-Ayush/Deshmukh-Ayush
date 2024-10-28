@@ -1,7 +1,7 @@
 ![logo](https://github.com/Deshmukh-Ayush/Deshmukh-Ayush/blob/main/github_banner_image.png)
 
 # 💫 About Me:
-👋 I'm Ayush Deshmukh <br>🔭 I’m currently working on Chat App using Nex.js<br>👯 I’m looking to collaborate on Asset Tokens <br>🌱 I’m currently learning Next.js<br>💬 Ask me about Web & App Development
+🚀 Full Stack Developer | Web3 & Blockchain Enthusiast | Cross-Platform App Developer <br>🌐 Experienced in building highly scalable web applications with MERN, Next.js, and microservices architecture<br>📚 Working on Gyan Gully - a skill-sharing platform with real-time streaming, community channels, and progress tracking <br>🌊 Currently enhancing Gyan Gully with advanced authentication, data handling via MongoDB Atlas and Redis, and integrating FFmpeg and HLS for media streaming<br>🎓 2nd Year B.Tech in Automobile Engineering, but my passion lies in software development and freelancing<br> 💼 Open to collaborations and freelancing opportunities in Web3, app development, and complex web systems
 
 
 ## 🌐 Socials:
